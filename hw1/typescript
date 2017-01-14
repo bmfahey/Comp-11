@@ -1,0 +1,161 @@
+Script started on Sat 12 Sep 2015 04:47:29 PM EDT
+dell24:~/Desktop/comp11/hw1 > hostname
+dell24
+dell24:~/Desktop/comp11/hw1 > who
+gstein02 pts/0        2015-09-12 15:45 (10.245.149.105)
+molay    pts/1        2015-09-11 07:55 (pool-108-20-241-151.bstnma.east.verizon.net)
+equinn03 pts/2        2015-09-12 16:28 (10.244.140.200)
+bdawso04 pts/4        2015-09-12 15:38 (38.122.127.226)
+mrodri14 pts/5        2015-09-12 16:42 (38.122.127.226)
+ifisch01 pts/6        2015-09-12 16:44 (resnet154-161.medford.tufts.edu)
+eschwa08 pts/7        2015-09-12 16:07 (c-98-216-110-41.hsd1.ma.comcast.net)
+akerch01 pts/8        2015-09-12 16:40 (10.244.142.73)
+gkonst01 pts/13       2015-09-12 16:10 (10.245.143.232)
+bmaswa01 pts/14       2015-09-12 16:24 (wr-130-64-95-181.medford.tufts.edu)
+ctrimm01 pts/16       2015-09-12 16:16 (wr-130-64-93-170.medford.tufts.edu)
+mfreem04 pts/17       2015-09-12 13:44 (10.245.144.93)
+jhowar06 pts/18       2015-09-12 16:28 (10.247.140.42)
+ecolwe02 pts/60       2015-09-12 15:47 (10.245.145.210)
+jpodol01 pts/62       2015-09-12 16:44 (209-6-43-94.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com)
+cvitir01 pts/63       2015-09-12 16:32 (10.247.141.138)
+bdawso04 pts/64       2015-09-12 15:49 (38.122.127.226)
+kpratt02 pts/65       2015-09-12 16:34 (resnet133-181.medford.tufts.edu)
+ccasey01 pts/66       2015-09-12 16:02 (c-76-118-199-20.hsd1.ma.comcast.net)
+zkirsc01 pts/67       2015-09-12 16:34 (10.245.143.190)
+vtran01  pts/68       2015-09-12 16:43 (dhcp-130-64-34-120.medford.tufts.edu)
+mseltz01 pts/69       2015-09-12 15:24 (209-6-199-239.c3-0.smr-ubr2.sbo-smr.ma.cable.rcn.com)
+tampat01 pts/70       2015-09-12 16:12 (130.64.23.165)
+noah     pts/9        2015-09-12 10:02 (localhost:14.0)
+mdebel01 pts/15       2015-09-12 15:47 (resnet161-22.medford.tufts.edu)
+bfahey01 pts/20       2015-09-12 16:35 (resnet155-166.medford.tufts.edu)
+mbelki01 pts/21       2015-09-12 14:07 (10.245.147.144)
+bnguye06 pts/22       2015-09-12 16:21 (wr-130-64-223-51.medford.tufts.edu)
+bfahey01 pts/23       2015-09-12 16:47
+jlagor01 pts/24       2015-09-12 15:27 (10.247.148.26)
+hchen05  pts/25       2015-09-12 15:59 (c-66-31-55-236.hsd1.ma.comcast.net)
+equinn03 pts/27       2015-09-12 16:28 (localhost:35.0)
+mmoris01 pts/28       2015-09-12 14:59 (10.244.141.119)
+vramch01 pts/29       2015-09-12 14:59 (10.244.141.243)
+schadh01 pts/19       2015-09-12 16:42 (10.247.148.207)
+tjoshi01 pts/30       2015-09-12 16:30 (wr-130-64-98-30.medford.tufts.edu)
+vramch01 pts/31       2015-09-12 16:43 (10.244.141.243)
+cvitir01 pts/32       2015-09-12 15:18 (10.247.141.138)
+hchan03  pts/33       2015-09-12 16:23 (10.247.141.129)
+cfitzp01 pts/35       2015-09-12 14:40 (wr-130-64-176-68.medford.tufts.edu)
+mrodri14 pts/36       2015-09-12 14:30 (38.122.127.226)
+jhowar06 pts/37       2015-09-12 16:32 (10.247.140.42)
+mcheng05 pts/39       2015-09-12 15:35 (resnet155-172.medford.tufts.edu)
+nr       pts/40       2015-09-12 13:03 (pool-173-48-194-162.bstnma.fios.verizon.net)
+ssaeng01 pts/41       2015-09-12 16:39 (10.244.144.201)
+hsmith07 pts/42       2015-09-12 15:42 (10.245.147.98)
+dzelin01 pts/43       2015-09-12 15:22 (209-6-199-239.c3-0.smr-ubr2.sbo-smr.ma.cable.rcn.com)
+ngilbe01 pts/44       2015-09-12 14:59 (10.244.141.103)
+jjuvil01 pts/45       2015-09-12 16:23 (10.244.142.133)
+myaspa01 pts/46       2015-09-12 16:27 (c-66-31-34-242.hsd1.ma.comcast.net)
+tampat01 pts/47       2015-09-12 15:45 (10.244.143.208)
+jkamib01 pts/48       2015-09-12 15:09 (wr-130-64-93-200.medford.tufts.edu)
+cgregg   pts/49       2015-09-12 15:41 (209-6-42-242.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com)
+jthoma15 pts/50       2015-09-12 16:25 (10.247.142.181)
+cwang17  pts/51       2015-09-12 15:56 (resnet142-140.medford.tufts.edu)
+sslate02 pts/52       2015-09-12 16:16 (wr-130-64-223-79.medford.tufts.edu)
+bdawso04 pts/53       2015-09-12 16:17 (10.247.149.76)
+nferre01 pts/54       2015-09-12 16:45 (resnet149-134.medford.tufts.edu)
+edonow01 pts/55       2015-09-12 15:20 (64.237.51.173)
+elin06   pts/56       2015-09-12 15:49 (192.80.65.177)
+dberma02 pts/57       2015-09-12 16:04 (wr-130-64-222-7.medford.tufts.edu)
+pash01   pts/58       2015-09-12 16:07 (wr-130-64-176-97.medford.tufts.edu)
+yjun01   pts/59       2015-09-12 16:43 (10.245.148.200)
+sperry02 pts/61       2015-09-12 14:12 (resnet155-212.medford.tufts.edu)
+jslavi01 pts/71       2015-09-12 16:46 (resnet154-125.medford.tufts.edu)
+mberns01 pts/72       2015-09-12 15:24 (10.247.142.194)
+mrodri14 pts/73       2015-09-12 15:26 (38.122.127.226)
+mmicha04 pts/74       2015-09-12 15:24 (10.245.147.39)
+jvrod01  pts/75       2015-09-12 16:19 (10.245.148.42)
+bdawso04 pts/76       2015-09-12 15:28 (38.122.127.226)
+zmunro01 pts/77       2015-09-12 15:31 (resnet154-217.medford.tufts.edu)
+xqi01    pts/78       2015-09-12 16:46 (resnet157-43.medford.tufts.edu)
+dell24:~/Desktop/comp11/hw1 > w
+ 16:47:40 up 4 days, 55 min, 73 users,  load average: 5.19, 4.55, 3.84
+USER     TTY      FROM              LOGIN@   IDLE   JCPU   PCPU WHAT
+gstein02 pts/0    10.245.149.105   15:45   18:16   1.16s  1.00s emacs add8.cpp
+molay    pts/1    pool-108-20-241- Fri07    6:07m  0.29s  0.06s vim sched_gen
+equinn03 pts/2    10.244.140.200   16:28   19:01   6.34s  0.08s -tcsh
+bdawso04 pts/4    38.122.127.226   15:38    1:08m  0.74s  0.65s emacs digits.cp
+mrodri14 pts/5    38.122.127.226   16:42    4:52   1.24s  1.16s kate digits.cpp
+ifisch01 pts/6    resnet154-161.me 16:44    1:14   2.41s  2.31s kate digits.cpp
+eschwa08 pts/7    c-98-216-110-41. 16:07   11:09  12.42s  0.10s -tcsh
+akerch01 pts/8    10.244.142.73    16:40    0.00s  1.12s  1.02s vim List_dynami
+gkonst01 pts/13   10.245.143.232   16:10   23:07   2.35s  2.24s emacs digits.cp
+bmaswa01 pts/14   wr-130-64-95-181 16:24   21:50   3.44s  0.11s -tcsh
+ctrimm01 pts/16   wr-130-64-93-170 16:16   15:57   0.09s  0.09s -tcsh
+mfreem04 pts/17   10.245.144.93    13:44    4:07   0.36s  0.36s -tcsh
+jhowar06 pts/18   10.247.140.42    16:28   15:48   0.10s  0.10s -tcsh
+ecolwe02 pts/60   10.245.145.210   15:47   12:35   0.10s  0.00s ./digits
+jpodol01 pts/62   209-6-43-94.c3-0 16:44    9.00s  2.89s  0.10s -tcsh
+cvitir01 pts/63   10.247.141.138   16:32    1:51   0.08s  0.08s -tcsh
+bdawso04 pts/64   38.122.127.226   15:49   55:56   0.41s  0.30s emacs digits.cp
+kpratt02 pts/65   resnet133-181.me 16:34   14.00s  0.12s  0.12s -tcsh
+ccasey01 pts/66   c-76-118-199-20. 16:02   44:48   0.06s  0.06s -bash
+zkirsc01 pts/67   10.245.143.190   16:34   14.00s  0.15s  0.15s -tcsh
+vtran01  pts/68   dhcp-130-64-34-1 16:43    3:18   0.29s  0.20s emacs design_do
+mseltz01 pts/69   209-6-199-239.c3 15:24   21:09   0.19s  0.19s -tcsh
+tampat01 pts/70   130.64.23.165    16:12   27:41   0.11s  0.11s -tcsh
+noah     pts/9    localhost:14.0   10:02   55:45  24.44s  0.30s -csh
+mdebel01 pts/15   resnet161-22.med 15:47   58:12   6:31   0.09s -tcsh
+bfahey01 pts/20   resnet155-166.me 16:35    0.00s  0.10s  0.00s script
+mbelki01 pts/21   10.245.147.144   14:07    1:45m  0.15s  0.03s vim DESIGN
+bnguye06 pts/22   wr-130-64-223-51 16:21    1:33   0.61s  0.50s emacs add8.cpp
+bfahey01 pts/23   -                16:47    0.00s  0.15s  0.13s w
+jlagor01 pts/24   10.247.148.26    15:27    1:18m  2.28s  2.20s emacs change.cp
+hchen05  pts/25   c-66-31-55-236.h 15:59   23:46   0.09s  0.09s -tcsh
+equinn03 pts/27   localhost:35.0   16:28   18:59   0.02s  0.02s -bin/tcsh
+mmoris01 pts/28   10.244.141.119   14:59   47:08   3:59   0.08s -tcsh
+vramch01 pts/29   10.244.141.243   14:59    1:09m  0.67s  0.52s emacs add8.cpp
+schadh01 pts/19   10.247.148.207   16:42    4:28   1.25s  1.15s emacs add8.cpp
+tjoshi01 pts/30   wr-130-64-98-30. 16:30   17:39   0.08s  0.08s -tcsh
+vramch01 pts/31   10.244.141.243   16:43    1:07   0.51s  0.41s emacs add8.cpp
+cvitir01 pts/32   10.247.141.138   15:18    1:15m  0.54s  0.48s emacs add8.cpp
+hchan03  pts/33   10.247.141.129   16:23   18:23   0.10s  0.10s -tcsh
+cfitzp01 pts/35   wr-130-64-176-68 14:40   27:35   0.12s  0.12s -tcsh
+mrodri14 pts/36   38.122.127.226   14:30    1:54m  0.34s  0.20s emacs digits.cp
+jhowar06 pts/37   10.247.140.42    16:32    1:11   0.99s  0.89s emacs change.cp
+mcheng05 pts/39   resnet155-172.me 15:35   20:47   1.49s  1.38s emacs digits.cp
+nr       pts/40   pool-173-48-194- 13:03    3:23m  0.38s  0.38s slogin labrador
+ssaeng01 pts/41   10.244.144.201   16:39    6:09   0.10s  0.10s -tcsh
+hsmith07 pts/42   10.245.147.98    15:42    6:27   1.07s  0.96s emacs digits.cp
+dzelin01 pts/43   209-6-199-239.c3 15:22    6:55   0.63s  0.50s vim s7.imp
+ngilbe01 pts/44   10.244.141.103   14:59    1:46m  3.67s  3.59s emacs change.cp
+jjuvil01 pts/45   10.244.142.133   16:23   10:44   0.11s  0.11s -tcsh
+myaspa01 pts/46   c-66-31-34-242.h 16:27   48.00s  0.33s  0.24s vim puzzles01.t
+tampat01 pts/47   10.244.143.208   15:45   27:41   8:27   0.06s ssh -X tampat01
+jkamib01 pts/48   wr-130-64-93-200 15:09    1:37m 36.57s 36.50s kate DESIGN.txt
+cgregg   pts/49   209-6-42-242.c3- 15:41    9:44   0.24s  0.24s -bash
+jthoma15 pts/50   10.247.142.181   16:25   24.00s  0.33s  0.21s emacs add8.cpp
+cwang17  pts/51   resnet142-140.me 15:56    3:03   0.11s  0.11s -tcsh
+sslate02 pts/52   wr-130-64-223-79 16:16   30:39   6:32   0.08s -tcsh
+bdawso04 pts/53   10.247.149.76    16:17    6:29   0.81s  0.67s emacs digits.cp
+nferre01 pts/54   resnet149-134.me 16:45   15.00s  0.08s  0.08s -tcsh
+edonow01 pts/55   64.237.51.173    15:20    1:12m  0.47s  0.38s vim invariants?
+elin06   pts/56   192.80.65.177    15:49   56:05   0.09s  0.09s -tcsh
+dberma02 pts/57   wr-130-64-222-7. 16:04   41:40   9:47   0.07s -tcsh
+pash01   pts/58   wr-130-64-176-97 16:07   11.00s  0.10s  0.10s -tcsh
+yjun01   pts/59   10.245.148.200   16:43    3:52   1.92s  0.07s -tcsh
+sperry02 pts/61   resnet155-212.me 14:12    1:14m  2.37s  2.20s emacs add8.cpp
+jslavi01 pts/71   resnet154-125.me 16:46    1:19   0.52s  0.44s emacs
+mberns01 pts/72   10.247.142.194   15:24    1:18m  2.23s  1.91s emacs -nw list1
+mrodri14 pts/73   38.122.127.226   15:26    1:20m  0.35s  0.26s emacs digits.cp
+mmicha04 pts/74   10.245.147.39    15:24   23.00s  0.14s  0.14s -tcsh
+jvrod01  pts/75   10.245.148.42    16:19   18:08   1.11s  0.99s emacs digits.cp
+bdawso04 pts/76   38.122.127.226   15:28    1:16m  0.49s  0.39s emacs digits.cp
+zmunro01 pts/77   resnet154-217.me 15:31    1:41   1.32s  0.14s -tcsh
+xqi01    pts/78   resnet157-43.med 16:46    1:29  30.65s  0.09s -tcsh
+dell24:~/Desktop/comp11/hw1 > pwd
+/h/bfahey01/Desktop/comp11/hw1
+dell24:~/Desktop/comp11/hw1 > ls -l
+total 4
+-rw-------. 1 bfahey01 other 618 Sep 12 16:45 digits.cpp
+-rw-------. 1 bfahey01 other   0 Sep 12 16:47 typescript
+dell24:~/Desktop/comp11/hw1 > exit
+exit
+
+Script done on Sat 12 Sep 2015 04:47:53 PM EDT
